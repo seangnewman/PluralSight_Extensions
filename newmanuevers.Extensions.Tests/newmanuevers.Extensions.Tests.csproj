@@ -52,6 +52,8 @@
     <Compile Include="Demo1\LegacyExtensionTests.cs" />
     <Compile Include="Demo2\DateTimeExtensionsTest.cs" />
     <Compile Include="Demo3\ReferenceDataSourceTests.cs" />
+    <Compile Include="Demo4\IReferenceDataSourceCollectionExtensionTests.cs" />
+    <Compile Include="Demo5\ObjectExtensionsTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
