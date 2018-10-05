@@ -49,6 +49,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Demo1\InstrumentationTests.cs" />
+    <Compile Include="Demo2\InternalClassTest.cs" />
+    <Compile Include="Demo3\DateTimeExtensionsTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
